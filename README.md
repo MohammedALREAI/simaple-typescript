@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">simaple app react with type script</h3>
-<h3 align="center"><a href="http://labored-smoke.surge.sh/"></a> diem</h3>
+- [@Demao](http://labored-smoke.surge.sh/)-Demao
 
 <div align="center">
 
